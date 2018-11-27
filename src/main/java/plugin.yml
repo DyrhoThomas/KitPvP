@@ -1,0 +1,5 @@
+main: com.dyrho.kitpvp.main.KitPvP
+name: DyrhoKitPvP
+author: DyrhoDevTeam
+version: 1.0-BETA-1
+depend: [DyrhoCore]
